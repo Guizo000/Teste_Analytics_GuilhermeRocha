@@ -1,4 +1,4 @@
-# Teste_Analytics_GuilhermeRocha
+# Teste de Analytics – Guilherme Rocha
 
 ## OBJETIVO 
 Este repositório contém a resolução das tarefas propostas no Teste para Estagiário de Analytics da Quod. O projeto cobre todas as etapas do pipeline de análise de dados: **simulação e limpeza de dados (Python)**, **análise e visualização (Python)**, **consultas em SQL** e a **interpretação de resultados** com foco na extração de *insights* estratégicos de negócio.
