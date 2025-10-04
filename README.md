@@ -21,7 +21,7 @@ Para executar os scripts faça:
 1. Baixe a pasta src ou clone o repositório:
 
      ```
-     git clone https://github.com/guizo000/Teste_Analytics_Guilherme.git
+     git clone https://github.com/guizo000/Teste_Analytics_GuilhermeRocha.git
      cd Teste_Analytics_GuilhermeRocha/src
      ```
 2. Instale as dependências:
